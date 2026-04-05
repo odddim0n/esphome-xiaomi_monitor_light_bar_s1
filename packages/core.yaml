@@ -53,8 +53,7 @@ api:
 external_components:
   - source:
       type: git
-      url: https://github.com/dentra/esphome-components
-      ref: add_mjgdyk01yl_support
+      url: https://github.com/odddim0n/esphome-components
 
 power_supply:
   - id: power
